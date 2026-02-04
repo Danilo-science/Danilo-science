@@ -42,7 +42,7 @@ A **Production-Ready Enterprise ERP & Brand Management System** built with a foc
 
 ### 📫 Connect with me
 
-*   **LinkedIn:** [https://www.linkedin.com/in/d-vallejo/]
-*   **Email:** [danilovallejo64@gmail.com]
+*   **LinkedIn:** https://www.linkedin.com/in/d-vallejo/
+*   **Email:** danilovallejo64@gmail.com
 *   [Twitter / X (@regioncrypto)](https://twitter.com/regioncrypto)
 *   [Linktree](https://linktr.ee/dani.v)
